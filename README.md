@@ -1,57 +1,148 @@
-# ✨ Ankit Mukherjee 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ankit+Mukherjee;Software+Developer+💻;AI+%2F+ML+Enthusiast+🤖;Full+Stack+Learner+🚀;UI%2FUX+Designer+🎨;Always+Learning+New+Things+🔥" />
+</p>
 
-PortFolio Link: https://port-folio-seven-puce.vercel.app
 
-## About Me 🤙
-Hey there! I'm Ankit Mukherjee, a first-year college student passionate about coding and technology :computer:. I have experience working with Java , C, and Python, and I'm currently exploring the realms of cloud computing and DevOps. I believe in continuous learning and enjoy diving deep into new technologies to enhance my skills.
+<h1 align="center">✨ Ankit Mukherjee</h1>
+<h3 align="center">🚀 Software Developer | AI Enthusiast | UI/UX Designer</h3>
 
-## Skills 🧮
-- **Programming Languages**: Java, C, Python
-- **Technologies**: Cloud Computing, DevOps
-- **Version Control**: Git
+<p align="center">
+  <a href="https://port-folio-seven-puce.vercel.app" target="_blank">
+    🌐 Portfolio
+  </a>
+</p>
 
-## Projects
-### Project 1: Java Application Development
-- Developed a simple banking system using Java to manage customer accounts and transactions.
-- Implemented object-oriented principles for efficient code organization and maintenance.
+---
 
-### Project 2: C Programming Challenge
-- Created a command-line utility in C for file manipulation tasks, including file copying and renaming.
-- Utilized data structures and memory management techniques to optimize performance.
+## 🧑‍💻 About Me 🤙
 
-### Project 3: Python Scripting for Automation
-- Developed a Python script to automate data backup tasks on a local server.
-- Used Python's libraries for file handling and scheduling to ensure reliable backups.
+Hey! I'm **Ankit Mukherjee**, a Computer Science student at **IEM Kolkata (2023–2027)** with a CGPA of **8.12**.  
 
-### Project 4: Cloud Computing Exploration
-- Explored various cloud computing platforms, including AWS and Azure, to understand their services and deployment models.
-- Completed hands-on labs to deploy applications on cloud infrastructure and manage resources efficiently.
+💡 I’m passionate about:
+- 🚀 Building real-world **web applications**
+- 🤖 Exploring **AI/ML systems**
+- 🎨 Designing clean and interactive **UI/UX**
 
-### Project 5: DevOps Practices Implementation
-- Implemented continuous integration (CI) pipelines using tools like Jenkins and GitLab CI to automate build and test processes.
-- Worked on containerization using Docker for application deployment and management.
+⚡ Currently:
+- Grinding **DSA (LeetCode)**
+- Building **Full Stack + AI projects**
+- Exploring **modern tools & system design**
 
-## Education 🏫
-Currently pursuing a BTech degree in [Computer Science and Technology] at IEM, where I'm honing my programming and problem-solving skills.
+---
 
-## Get in Touch 🤝
-Feel free to reach out to me via ankit.mukherjee30@gmail.com for collaboration opportunities or to discuss anything related to technology and coding!
+## 🛠️ Tech Stack 🧮
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ ankitmukherjee2004) 
+### 💻 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
-# 📊 GitHub Stats:
+### 🌐 Web Development
+![React](https://img.shields.io/badge/react-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitMukherjee044&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitMukherjee044&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🔹 AI-Based Internship Recommendation System
+- ⚛️ React + Node.js + MongoDB  
+- 🎯 Built during SIH  
+- 💡 Designed responsive UI & optimized reusable components  
+- 🚀 Improved scalability and performance  
+
+---
+
+### 🔹 Multimodal Phishing Detection System
+- 🧠 Python + CNN + MobileNetV2  
+- 🔍 Detects phishing using URL + webpage screenshots  
+- 📈 Built preprocessing pipeline for better accuracy  
+
+---
+
+### 🔹 Java Banking System
+- 💳 Console-based banking system  
+- 🧩 Implemented OOP concepts for account management  
+
+---
+
+### 🔹 Python Automation Script
+- ⚙️ Automated local data backup  
+- 📁 Used file handling + scheduling  
+
+---
+
+## 🏆 Achievements & Activities
+
+- 💼 Treasurer – UEMK Gaming Community  
+- 🎯 Coordinator – Ureckon Tech Fest  
+- 💻 Participated in multiple Hackathons  
+- 🤖 Actively exploring AI tools & modern tech  
+
+---
+
+## 📜 Certifications
+
+- 🛡️ Cyber Security Fundamentals – University of London  
+- ☕ Programming in Java – IIT Kharagpur  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitMukherjee044&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitMukherjee044&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitMukherjee044&theme=tokyonight&layout=compact" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkitMukherjee044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnkitMukherjee044&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me 🤝
 
+- 📧 Email: ankit.mukherjee30@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ankitmukherjee2004  
+- 🌐 Portfolio: https://port-folio-seven-puce.vercel.app  
+
+---
+
+## 💡 Quote
+
+> "Build. Break. Learn. Repeat." 🚀  
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AnkitMukherjee044&icon=0&color=0" />
+</p>
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnkitMukherjee044/AnkitMukherjee044/output/snake.svg" alt="snake animation" />
+</p>
