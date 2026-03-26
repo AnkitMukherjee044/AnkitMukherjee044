@@ -115,17 +115,11 @@ Hey! I'm **Ankit Mukherjee**, a Computer Science student at **IEM Kolkata (2023�
 
 ---
 
-## 💡 Quote
-
-> "Build. Break. Learn. Repeat." 🚀  
+ 
 
 ---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AnkitMukherjee044&icon=0&color=0" />
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitMukherjee044/AnkitMukherjee044/output/snake.svg" />
-</p>
