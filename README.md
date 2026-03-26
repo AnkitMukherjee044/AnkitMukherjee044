@@ -100,21 +100,7 @@ Hey! I'm **Ankit Mukherjee**, a Computer Science student at **IEM Kolkata (2023�
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitMukherjee044&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitMukherjee044&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitMukherjee044&theme=tokyonight&layout=compact" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkitMukherjee044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
