@@ -138,11 +138,8 @@ Hey! I'm **Ankit Mukherjee**, a Computer Science student at **IEM Kolkata (2023â
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AnkitMukherjee044&icon=0&color=0" />
 </p>
-
-
-
 ## ğŸ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitMukherjee044/AnkitMukherjee044/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AnkitMukherjee044/AnkitMukherjee044/output/snake.svg" />
 </p>
